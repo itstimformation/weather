@@ -7,4 +7,5 @@
 ## Documents
 
 [User Journey Piste Map](http://tim-davidson.com/sno/user-journey.pdf)
+
 [Style Tile](http://tim-davidson.com/sno/style-tile.pdf)
